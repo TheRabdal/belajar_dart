@@ -1,7 +1,7 @@
 void main() {
   String nama;
 
-  nama = 'iniString';
+  nama = 'iniString123';
 
   print(nama);
   print(nama);
