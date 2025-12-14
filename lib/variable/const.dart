@@ -1,12 +1,8 @@
 void main() {
-  final array1 = [1, 2, 3];
+  final array1 = [500, 2, 3];
   const array2 = [1, 2, 3];
 
-  array1 = [0, 0, 0];
-  array1[0] = 10;
-
-  array2 = [0, 0, 0];
-  array2[0] = 10;
+  array1[0] = 1;
 
   print(array1);
   print(array2);
@@ -18,9 +14,7 @@ tapi dari variablenya sendiri bisa diubah
 didalam dart terdapat kata kunci constanta digunakan untuk menjadikan variable dan nilainya
 menjadi immutable yaitu tidak bisa diubah sama sekali
 sebagai contohnya :
-
 const API_KEY = 'K4uT54r'; //dari awal sampai akhir sama
-
 final token = login(); //belum tahu sampai programnya jalan
 
 kesimpulannya : 
