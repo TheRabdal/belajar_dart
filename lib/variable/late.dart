@@ -1,5 +1,3 @@
-late String namaLengkap;
-
 void main() {
   var value = getValue();
   print('Variable sudah dibuat');
