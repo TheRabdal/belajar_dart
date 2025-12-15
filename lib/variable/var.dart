@@ -1,9 +1,7 @@
 void main() {
-  var nama = 'iniVar';
+  var text = 'iniVar';
 
-  print(nama);
-  print(nama);
-  print(nama);
+  print(text);
 }
 
 /*

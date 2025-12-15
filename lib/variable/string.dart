@@ -1,11 +1,9 @@
 void main() {
-  String nama;
+  String text;
 
-  nama = 'iniString123';
+  text = 'iniString123';
 
-  print(nama);
-  print(nama);
-  print(nama);
+  print(text);
 }
 
 /*
