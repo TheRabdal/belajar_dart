@@ -1,5 +1,5 @@
 void main() {
-  var value = getValue();
+  late var value = getValue();
   print('Variable sudah dibuat');
   print(value);
 }

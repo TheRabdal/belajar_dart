@@ -2,7 +2,6 @@ void main() {
   final namaDepan = 'kautsar';
   var namaBelakang = 'rabdal';
 
-  namaDepan = 'iseng';
   namaBelakang = 'gabut';
 
   print(namaDepan);
