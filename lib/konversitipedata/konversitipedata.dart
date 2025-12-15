@@ -1,0 +1,4 @@
+/*
+disuatu kebutuhan perlu mengkonversi tipe data
+terutama dari string ke number dan boolean atau kebalikannya
+ */
