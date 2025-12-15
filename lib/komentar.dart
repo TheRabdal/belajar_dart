@@ -1,3 +1,7 @@
+//-----------------------------------------------//
+//                  KOMENTAR
+//-----------------------------------------------//
+
 // isi komentar single line
 
 /*
@@ -9,4 +13,3 @@ isi komentar multi-line
  */
 
 /// isi komentar dokumentasi
-
