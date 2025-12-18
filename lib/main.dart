@@ -1,5 +1,4 @@
-import 'package:belajar_dart/widget/stack.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:belajar_dart/widget/appbar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: StackPage(),
+      home: AppBarPage(),
     );
   }
 }

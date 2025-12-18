@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class AppBarPage extends StatefulWidget {
   const AppBarPage({super.key});
@@ -30,7 +29,6 @@ class _AppBarPageState extends State<AppBarPage> {
           color: Colors.white70,
         ),
       ),
-      bottom: FloatingActionButton(),
     );
   }
 }
