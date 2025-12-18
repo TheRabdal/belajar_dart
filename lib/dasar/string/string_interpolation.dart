@@ -2,7 +2,7 @@ void main() {
   String namaDepan = 'kautsar';
   String namaBelakang = 'rabdal';
 
-  var namaLengkap = '$namaDepan ${namaBelakang}';
+  var namaLengkap = '$namaDepan $namaBelakang';
 
   print(namaLengkap);
 }

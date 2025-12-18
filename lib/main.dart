@@ -1,10 +1,18 @@
-void main() {  //dart main function
-  print('Hello Word!');
+import 'package:belajar_dart/widget/stack.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MyApp());
 }
 
-/*
-function print dengan parameter string/text,
-dan data tersebut bisa menggunakan kutip satu atau kutip dua
-*/
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
-
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: StackPage(),
+    );
+  }
+}

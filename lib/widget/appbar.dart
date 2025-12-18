@@ -30,7 +30,7 @@ class _AppBarPageState extends State<AppBarPage> {
           color: Colors.white70,
         ),
       ),
-      bottom: const PopupMenuButtonWidget(),
+      bottom: FloatingActionButton(),
     );
   }
 }
