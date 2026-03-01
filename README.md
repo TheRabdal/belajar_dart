@@ -1,4 +1,4 @@
-apa itu dart? 
+apa itu dart?
 bahasa pemrograman open source(sumber terbuka) + general purpose(tujuan umum)
 
 alasan belajar dart? 
@@ -13,6 +13,7 @@ karakteristik dart?
 - type inference
 - string expressions
 - multi-paradigma: OOP dan FUNCTIONAL
+
 {
     var name = "TheRabdal"; //var adalah tyoe inference
     String lastName = 'Project';
@@ -21,24 +22,63 @@ karakteristik dart?
     print("$name $lastName, Umur : $age");
 }
 
+DART FUNDAMENTAL!
+//Comments
+- Single Line
+- Multi Line
+//Variables
+//Numbers
+- int
+- double
+- toStringAsFixed
+- parse
+//Data Types
+- int
+- double
+- num
+- bool
+- String
+- List
+- Map
+- dynamic
+//Strings
+- Interpolation
+- backslash
+//Booleans
+- true
+- false
+//Operators
+- Operator Aritmatika
+- parentheses
+- increment
+- decrement
+- Operator Perbandingan
+- Operator Logika
+//Exceptions
+- try and catch
+- finally
+//Functions
+- Function Parameters
+- Optional Parameters
+//Variable Scope
+//Constants & Final
+//Null Safety
+//Switch & Case
+//Looping
+- for
+- while
+- forEach
+- break
+- continue
+//Collections
+- add
+- insert
+- spread collections
+- set
+- remove
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+NOTE!
 value/parse(parsing) //?
 Row //mengisi ruang horizontal
 Column //mengisi ruang vertikal
