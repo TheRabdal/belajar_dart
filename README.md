@@ -1,17 +1,30 @@
-# belajar_dart
+value/parse(parsing) //?
+Row //mengisi ruang horizontal
+Column //mengisi ruang vertikal
+flex //mengatur proporsi ruang antar widget
+shrinkWrap: true //Penting untuk Column dan di isi boolean
 
-A new Flutter project.
+- pelajari: column, row, list view, stack
+- macam-macam class widget, contoh: text, container, card, textFormField, padding,
 
-## Getting Started
+belajar widgets untuk membuat UI/UX:
+https://www.youtube.com/watch?v=WOvj84xq_fc : Scaffold, AppBar, SafeArea, Container, Text, RichText, Colomn, Row, Button.
+# Scaffold Widget:
+- AppBar
+- Button appbar
+- floating action button
+- drawer
+- snack bar
+- bottom sheet
+- dll
 
-This project is a starting point for a Flutter application.
+# AppBar Widget:
+- properti title : text('');
+- toolbar
+- leading
+- action standar
+- dll
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# belajar_dart" 
+https://www.youtube.com/watch?v=EsTeVAVc12E
